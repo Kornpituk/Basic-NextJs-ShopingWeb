@@ -31,8 +31,10 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+## Deploy on Netlify
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Check out our [Next.js deployment documentation](https://app.netlify.com/) for more details.
+-->https://basic-nextjs-shop.netlify.app/
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Cradit Lrean From Youtube Chanel KongRuksiam Official
+Link for lrean vdeo [youtube vdeo](https://www.youtube.com/watch?v=l_DlTj8GzCo&t=8320s)
